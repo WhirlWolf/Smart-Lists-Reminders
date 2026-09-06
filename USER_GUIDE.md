@@ -2,7 +2,7 @@
 
 ## Quick Add
 
-Type naturally in the quick-add bar (or after `@slr`) — SLR parses out the structure and leaves the clean title behind.
+Type naturally in the quick-add bar — SLR parses out the structure and leaves the clean title behind.
 
 | Type | Syntax | Example |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ Type `@slr` in any text field on your device (a message, a note, a browser searc
 
 ### Share to SLR
 
-Share text, a link, or a file from any app using Android's share sheet and choose **"Add as Task"** — the shared content becomes the task title.
+Share text, a link from any app using Android's share sheet and choose **"Add as Task"** — the shared content becomes the task title.
 
 ## Views & Organization
 
@@ -53,16 +53,16 @@ SLR exposes a command interface so other Tasker tasks and profiles can drive it 
 
 ```
 SLR=:=add
-SLR=:=edit/toggle
+SLR=:=edit
 SLR=:=toggle
 SLR=:=select_view
 ```
 
-The part before `=:=` is the command; everything after is passed as parameters (`%command`, `%par`, `%command_parameter`, `%command_parameters()`). See the **SLR - commandReceiver** profile's relevant variables for the full list, and the **SLR - actions** task for how each command is handled internally.
+The part before `=:=` is the command; everything after is passed as parameters (`%command`, `%par1`, `%par2`, `%par3`, etc). See the **SLR - commandReceiver** profile's relevant variables for the full list, and the **SLR - actions** task for how each command is handled internally.
 
 ## Widget & Notification
 
-- **Widget** — drop the SLR widget on your home screen for at-a-glance task access; tap a task to mark it done, long-press for quick-add
+- **Widget** — drop the SLR widget on your home screen for at-a-glance task access
 - **Notification** — persistent notification view of your tasks, driven by the **SLR - Timed Tasks** and **SLR - allDayTasks** profiles
 
 ## More
