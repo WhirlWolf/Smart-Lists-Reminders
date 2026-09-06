@@ -2,7 +2,7 @@
 
 Natural-language task manager, built entirely inside Tasker.
 
-Type `@slr` anywhere to add a task — dates, times, lists, tags, priority, and repeats are parsed automatically. Browse tasks from a widget or notification, in any grouped sort order, with zero external apps or servers involved.
+Type `@slr` anywhere to add a task — dates, times, lists, tags, priority, and repeats are parsed automatically. Browse tasks from a widget, in any grouped sort order, with zero external apps or servers involved.
 
 >
 > ⚠️ **Fresh import required** when updating from an older build — see [SETUP.md](SETUP.md#updating).
