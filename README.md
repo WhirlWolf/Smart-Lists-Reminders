@@ -4,7 +4,6 @@ Natural-language task manager, built entirely inside Tasker.
 
 Type `@slr` anywhere to add a task — dates, times, lists, tags, priority, and repeats are parsed automatically. Browse tasks from a widget or notification, in any grouped sort order, with zero external apps or servers involved.
 
-> **v2.0.20260910-rc (build 22)** — requires Tasker 6.7.6-beta or newer
 >
 > ⚠️ **Fresh import required** when updating from an older build — see [SETUP.md](SETUP.md#updating).
 
@@ -50,7 +49,6 @@ If you find Smart Lists & Reminders useful, consider buying me a coffee!
 
 ## Links
 
-- [What's new](https://t.me/android_automation_group/16139)
 - [Telegram Group](https://t.me/android_automation_group)
 - [Telegram Channel](https://t.me/android_automation)
 - [Taskernet](https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3ASmart+Lists+%26+Reminders)
