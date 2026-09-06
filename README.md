@@ -13,9 +13,9 @@ This is a personal Tasker project shared as-is. It stores all data locally on yo
 
 ## Documentation
 
-- **[SETUP.md](SETUP.md)** — prerequisites, install, update, and uninstall steps
-- **[USER_GUIDE.md](USER_GUIDE.md)** — quick-add syntax, views, task features, automation
-- **[FAQ.md](FAQ.md)** — troubleshooting
+- **[setup.md](docs/setup.md#updating)** — prerequisites, install, update, and uninstall steps
+- **[user_guide.md](docs/user_guide.md)** — quick-add syntax, views, task features, automation
+- **[faq.md](docs/faq.md)** — troubleshooting
 
 ## Features
 
@@ -29,7 +29,7 @@ This is a personal Tasker project shared as-is. It stores all data locally on yo
 - **Import/export** and completion stats
 - **[Updater](https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3AUpdater) support**
 
-See [USER_GUIDE.md](USER_GUIDE.md) for the full breakdown.
+See [user_guide.md](docs/user_guide.md) for the full breakdown.
 
 ## Privacy
 
